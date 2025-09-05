@@ -57,11 +57,11 @@ function App() {
       <div className="w-24 h-1 bg-red-600 mx-auto mb-8"></div>
 
       {/* Club Cards */}
-      <div className="space-y-6 px-4 md:px-20">
+      <div className="container mx-auto space-y-6 px-4 md:px-10 lg:px-20">
         {clubs.map((club, idx) => (
           <div
             key={idx}
-            className="bg-gray-900 rounded-2xl shadow-lg flex flex-col md:flex-row items-center md:items-stretch overflow-hidden"
+            className="bg-gray-900 rounded-2xl shadow-lg flex flex-col md:flex-row overflow-hidden"
           >
             {/* Left section: logo + description */}
             <div className="flex-1 p-6 flex flex-col justify-center">
@@ -85,7 +85,7 @@ function App() {
             </div>
 
             {/* Right section: image */}
-            <div className="flex-1 w-full h-56 md:h-auto">
+            <div className="flex-1 w-full h-48 sm:h-64 md:h-auto">
               <img
                 src={club.img}
                 alt={club.name}
