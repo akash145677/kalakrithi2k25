@@ -10,8 +10,8 @@ function App() {
     {
       name: "Phonia Music Club",
       desc: "Music brings together singers, musicians, and performers for cultural expression, storytelling, and entertainment.",
-      logo: "/logos/phonia-logo.png",
-      img: "https://source.unsplash.com/400x300/?guitar",
+      logo: "/logos/kala.png",
+      img: "/images/phonia.jpg",
       form: "https://docs.google.com/forms/d/e/1FAIpQLSfiSwdXuzBKZUXblMeX0obQY3zkEYjkl3AQabLDhOuThmyKOg/viewform?usp=sharing&ouid=105986387077072453196",
     },
     {
@@ -35,6 +35,13 @@ function App() {
       img: "https://source.unsplash.com/400x300/?microphone",
       form: "https://docs.google.com/forms/d/e/1FAIpQLSfiSwdXuzBKZUXblMeX0obQY3zkEYjkl3AQabLDhOuThmyKOg/viewform?usp=sharing&ouid=105986387077072453196",
     },
+    {
+    name: "Photography, Editing & Design Club",
+    desc: "Explore photography, photo editing, graphic design, and creative visual storytelling.",
+    logo: "/logos/photography-logo.png", // make sure to add this logo in your public/logos folder
+    img: "https://source.unsplash.com/400x300/?photography,editing,design",
+    form: "https://docs.google.com/forms/d/e/1FAIpQLSfiSwdXuzBKZUXblMeX0obQY3zkEYjkl3AQabLDhOuThmyKOg/viewform?usp=sharing&ouid=105986387077072453196",
+  },
   ];
 
   return (
