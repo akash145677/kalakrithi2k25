@@ -85,7 +85,7 @@ At Kalakrithi, we do not just organize events—we create experiences. Experienc
       name: "Creative Arts",
       desc: "Sketching, painting, crafts, and poetry — hands-on spaces for visual storytelling and expression.",
       icon: Palette,
-      img: "/logos/CA.png",
+      img: "/logos/CA1.png",
       form: "https://docs.google.com/forms/d/e/1FAIpQLScSClaQ_r8_JaoeS-22AzeMwXFoT1ZdhefEx8rXc2nJcJ_x8Q/viewform?usp=header",
     },
     {
