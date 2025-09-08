@@ -44,7 +44,7 @@ const CLUB_INFO = {
 
 One of the oldest and most celebrated cultural clubs of GITAM University, Kalakrithi has been the heartbeat of campus life for over a decade. It is more than just a club—it is a festival of art, music, dance, theatre, and expression, where talent meets opportunity and creativity knows no limits.
 
-Kalakrithi is a family of six vibrant clubs:
+Kalakrithi is a family of five vibrant clubs:
 • Dance Club – setting the stage ablaze with electrifying flash mobs.  
 • Anchoring Club – the charismatic hosts behind every unforgettable event.  
 • Phonia – The Music Club – creating magical moments with soulful flash jams.  
