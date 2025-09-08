@@ -148,25 +148,25 @@ export default function KalakrithiPage() {
       <style>{swiperStyles}</style>
 
       {/* Navbar */}
-      <header
+     <header
         className="flex items-center justify-between px-6 py-4 border-b relative"
         style={{ borderColor: COLORS.accentRed }}
       >
         <img
-          src="/logos/gitam.png"
+          src="/logos/Gitam.jpg"
           alt="GITAM Logo"
           className="h-12 w-12 object-contain rounded-full border border-red-600"
         />
         <div className="absolute left-1/2 transform -translate-x-1/2 flex items-center gap-3">
           <img
-            src="/logos/kalakrithi.png"
+            src="/logos/love.png"
             alt="Kalakrithi Logo"
             className="h-16 w-16 object-contain rounded-full border border-red-600"
           />
           <h1 className="text-2xl font-bold text-white">{CLUB_INFO.title}</h1>
         </div>
         <img
-          src="/logos/studentlife.png"
+          src="/logos/Student_Life.png"
           alt="Student Life Logo"
           className="h-12 w-12 object-contain rounded-full border border-red-600"
         />
